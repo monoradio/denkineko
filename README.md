@@ -104,3 +104,6 @@ Eagleのプリント基板データがcircuitフォルダに入っています (
 https://drive.google.com/drive/folders/1kf-iSnG7YmpUBoflxnHEyxiMmFvtSxVS?usp=sharing. 
 外装部分については光造形方式の3Dプリンタ必須です。  
 
+<img width="300" height="300" alt="denkineko" src="https://github.com/user-attachments/assets/f527c4a0-baae-469e-a255-96630917e01e" />
+
+
