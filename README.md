@@ -3,6 +3,11 @@
 - Demo動画<br>
 [![demo](http://img.youtube.com/vi/TgMYkIjSbwk/0.jpg)](https://www.youtube.com/watch?v=TgMYkIjSbwk)
 
+- UI
+https://mikaka-robotics.github.io/denkineko/controller_ui/
+<img width="377" height="344" alt="スクリーンショット 2026-04-22 23 37 04" src="https://github.com/user-attachments/assets/a5e060e4-c82e-46ee-a7cc-acdd485b5774" />
+
+
 ### デモの実行方法
 事前に[こちらのNotebook](https://colab.research.google.com/drive/1hb-0-26DFwklIStM_WgTVe1c2eLKU9Zp?usp=sharing)でGradio web appを起動して、URL(https://XXXXXXXX.gradio.live/) をコピーしておく
 
